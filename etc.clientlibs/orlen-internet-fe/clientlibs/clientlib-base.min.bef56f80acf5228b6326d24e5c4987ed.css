@@ -4481,6 +4481,7 @@
 }
 #mobile-brand {
   display: none;
+  margin-bottom: 30px;
 }
 @media (max-width: 1279px) {
   #mobile-brand {
