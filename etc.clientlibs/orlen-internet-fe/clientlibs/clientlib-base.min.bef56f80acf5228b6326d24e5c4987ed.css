@@ -4482,7 +4482,7 @@
 #mobile-brand {
   display: none;
 }
-@media (max-width: 767px) {
+@media (max-width: 1279px) {
   #mobile-brand {
       display: block;
   }
