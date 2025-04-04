@@ -4483,7 +4483,7 @@
   display: none;
   margin-bottom: 30px;
 }
-.cmp-teaser__action-link-mobile::after {
+/* .cmp-teaser__action-link-mobile:after {
     content: "󰁔";
     display: inline-block;
     vertical-align: text-top;
@@ -4493,7 +4493,7 @@
     text-align: center;
     color: inherit;
     margin-left: 8px;
-}
+} */
 @media (max-width: 1279px) {
   #mobile-brand {
       display: block;

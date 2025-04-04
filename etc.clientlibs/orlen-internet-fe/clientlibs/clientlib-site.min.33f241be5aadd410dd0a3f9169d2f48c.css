@@ -9757,7 +9757,8 @@ form .text a:visited {
   .teaser.teaser-persona
     .cmp-teaser
     .cmp-teaser__content
-    .cmp-teaser__action-link:after {
+    .cmp-teaser__action-link:after
+    .cmp-teaser__action-link-mobile:after  {
     content: "󰁔";
     display: inline-block;
     vertical-align: text-top;
